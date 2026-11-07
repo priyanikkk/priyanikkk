@@ -2,12 +2,13 @@
 
 # Привет, я priyanik
 
-**Python-разработчик · асинхронные системы · AI-агенты · терминальные интерфейсы**
+**Software developer · Java · C++ · Kotlin · Go**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-2C5BB4?style=flat-square&logo=python&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
@@ -25,10 +26,10 @@
 
 ## Чем занимаюсь
 
-- Высоконагруженные асинхронные сервисы на `asyncio` / `aiohttp`
-- Терминальные интерфейсы на `rich`
+- Бэкенд и системная разработка на Java, C++, Kotlin и Go
+- Асинхронные и высоконагруженные сервисы
 - AI-агенты и мультиагентные системы на базе LLM
-- Telegram-боты на `aiogram`
+- Консольные утилиты и терминальные интерфейсы
 
 ---
 
