@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я priyanik
+# Привет, я Prun
 
 **Software developer · Java · C++ · Kotlin · Go**
 
