@@ -16,14 +16,6 @@
 
 ---
 
-## Проекты
-
-| Проект | Описание |
-|---|---|
-| [**fast-market-arbitrage-core**](https://github.com/priyanikkk/fast-market-arbitrage-core) | Асинхронный сканер межбиржевого арбитража (Binance, Bybit, OKX, KuCoin, Gate.io) с live-дашбордом в терминале |
-| [**lzt-terminal-trader**](https://github.com/priyanikkk/lzt-terminal-trader) | Мультиагентная консольная система анализа рынка и арбитража Telegram-аккаунтов на LZT Market |
-| [**ZhirTerminalAssist**](https://github.com/priyanikkk/ZhirTerminalAssist) | Автономный AI-агент для Linux-терминала: правит код с diff-превью, безопасно запускает команды, работает с Git |
-
 ## Чем занимаюсь
 
 - Бэкенд и системная разработка на Java, C++, Kotlin и Go
